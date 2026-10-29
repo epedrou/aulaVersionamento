@@ -1,5 +1,7 @@
 # Versionamento: Git e Azure DevOps em projetos Salesforce
 
+<img width="1536" height="1024" alt="Aventura Cósmica do Deploy Salesforce (1)" src="https://github.com/user-attachments/assets/5a45b153-095a-4faf-8dfe-2db336540220" />
+
 Versionar código é como manter o diário de bordo de um navio. Cada anotação parece pequena, mas é ela que mostra de onde viemos, por onde passamos e como voltar se algo der errado.
 
 ## Sumário
