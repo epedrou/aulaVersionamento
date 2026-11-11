@@ -133,21 +133,14 @@ sequenceDiagram
 git fetch origin
 ```
 
-### `git checkout main`
-**O que faz:** troca para a branch `main`.  
-**Quando usar:** para atualizar base antes de começar uma nova task.
-
-```bash
-git checkout main
-```
-
-### `git checkout -b feature/...`
-**O que faz:** cria uma nova branch e já entra nela.  
+### `git checkout (nome da branch)`
+**O que faz:** realiza a troca de branch.  
 **Quando usar:** sempre ao iniciar uma task.
 
 ```bash
-git checkout -b feature/JIRA-1234-validacao-cpf
+git checkout feature/JIRA-1234-validacao-cpf
 ```
+
 
 ### `git add <arquivo>`
 **O que faz:** coloca arquivo(s) no stage (preparados para commit).  
