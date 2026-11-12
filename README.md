@@ -319,7 +319,6 @@ flowchart TD
 - Nunca trabalhar direto na `main`
 - Sempre `fetch` antes de `rebase`
 - Retrieve somente do necessário
-- Revisar `git diff` antes do commit
 - Mensagens de commit claras
 
 Exemplos:
